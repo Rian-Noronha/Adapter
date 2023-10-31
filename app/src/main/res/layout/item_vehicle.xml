@@ -42,8 +42,8 @@
         android:id="@+id/txtFuel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintStart_toStartOf="@id/txtYear"
-        app:layout_constraintTop_toBottomOf="@id/txtYear"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/txtYear"
         tools:text="Gasolina/Etanol"
         >
     </TextView>
