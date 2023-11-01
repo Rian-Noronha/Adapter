@@ -1,6 +1,6 @@
 package com.rn.adapter
 
-import android.content.ClipData.Item
+
 import android.content.Context
 import android.content.res.TypedArray
 import android.view.LayoutInflater
